@@ -1,0 +1,209 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<title>Regras Gerais e Bíblia RP</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
+
+<style>
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  background: #0f172a;
+  color: #e5e7eb;
+}
+
+header {
+  background: linear-gradient(135deg, #2563eb, #1e3a8a);
+  padding: 70px 20px;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 3rem;
+}
+
+header p {
+  font-size: 1.2rem;
+  margin-top: 10px;
+}
+
+section {
+  max-width: 1200px;
+  margin: auto;
+  padding: 60px 20px;
+}
+
+h2 {
+  color: #60a5fa;
+  margin-bottom: 25px;
+  font-size: 2.4rem;
+}
+
+.card {
+  background: #020617;
+  padding: 30px;
+  border-radius: 15px;
+  margin-bottom: 25px;
+  box-shadow: 0 0 25px rgba(0,0,0,0.4);
+}
+
+.card p {
+  margin-bottom: 12px;
+}
+
+footer {
+  text-align: center;
+  padding: 30px;
+  background: #020617;
+  color: #94a3b8;
+}
+</style>
+</head>
+
+<body>
+
+<header>
+  <h1>Guia Oficial de Roleplay</h1>
+  <p>Regras Gerais e Bíblia RP Avançada</p>
+</header>
+
+<section>
+  <h2>📘 Regras Gerais de RP</h2>
+
+  <div class="card">
+    <p>1. RP (Roleplay) é a interpretação de um personagem fictício como se fosse uma vida real.</p>
+    <p>2. Toda ação realizada deve ser possível na vida real.</p>
+    <p>3. Power Gaming é proibido em qualquer situação.</p>
+    <p>4. Meta Gaming é proibido, incluindo uso de live, Discord ou informações externas.</p>
+    <p>5. RDM é matar outro jogador sem motivo ou contexto RP.</p>
+    <p>6. VDM é utilizar veículos como arma sem justificativa RP.</p>
+    <p>7. Fear RP é obrigatório: tenha medo da morte e de ameaças reais.</p>
+    <p>8. Combat Logging é proibido em qualquer situação de RP ativo.</p>
+    <p>9. Valorize sua vida como se fosse única.</p>
+    <p>10. É obrigatório respeitar o ambiente RP.</p>
+    <p>11. Zonas seguras devem ser respeitadas.</p>
+    <p>12. Uso de armas deve ter contexto RP.</p>
+    <p>13. É proibido forçar RP em outros jogadores.</p>
+    <p>14. Personagens não podem ter habilidades irreais.</p>
+    <p>15. Todo RP deve ter início, meio e fim.</p>
+    <p>16. Ofensas fora do personagem são proibidas.</p>
+    <p>17. Bug Abuse é estritamente proibido.</p>
+    <p>18. É proibido sair do personagem sem aviso administrativo.</p>
+    <p>19. RP sexual só é permitido com consentimento.</p>
+    <p>20. Ações policiais devem seguir procedimentos RP.</p>
+    <p>21. Assaltos devem respeitar as regras do servidor.</p>
+    <p>22. Personagem ferido deve agir como ferido.</p>
+    <p>23. É proibido retornar ao local da morte.</p>
+    <p>24. Não misture problemas pessoais com RP.</p>
+    <p>25. A staff tem a palavra final em qualquer situação.</p>
+  </div>
+</section>
+
+<section>
+  <h2>📖 Bíblia RP Avançada</h2>
+
+  <div class="card">
+    <p>1. A Bíblia RP define a base de interpretação do servidor.</p>
+    <p>2. Toda ação deve respeitar o realismo.</p>
+    <p>3. Seu personagem possui sentimentos.</p>
+    <p>4. Dor, medo e sofrimento devem ser interpretados.</p>
+    <p>5. Ferimentos graves limitam suas ações.</p>
+    <p>6. Tiros causam consequências sérias.</p>
+    <p>7. Acidentes devem ser interpretados.</p>
+    <p>8. Não existe herói no RP.</p>
+    <p>9. Personagens não são imortais.</p>
+    <p>10. Morrer é uma possibilidade real.</p>
+
+    <p>11. Ambulâncias e hospitais devem ser respeitados.</p>
+    <p>12. Policiais devem agir conforme a lei.</p>
+    <p>13. Criminosos devem valorizar sua liberdade.</p>
+    <p>14. Prisão deve ser levada a sério.</p>
+    <p>15. Interrogatórios devem ter coerência.</p>
+    <p>16. Tortura só com autorização do servidor.</p>
+    <p>17. Uso de drogas deve ter interpretação.</p>
+    <p>18. Bebidas alcoólicas afetam o personagem.</p>
+    <p>19. Gritar, correr e sussurrar fazem parte do RP.</p>
+    <p>20. Comunicação deve seguir o ambiente.</p>
+
+    <p>21. Não existe teletransporte RP.</p>
+    <p>22. Veículos sofrem danos reais.</p>
+    <p>23. Explosões causam ferimentos graves.</p>
+    <p>24. Armas causam medo.</p>
+    <p>25. Reféns devem cooperar.</p>
+    <p>26. Execuções devem ter contexto.</p>
+    <p>27. Assaltos devem ter planejamento.</p>
+    <p>28. Fugas devem ser realistas.</p>
+    <p>29. Perseguições devem respeitar limites.</p>
+    <p>30. O ambiente influencia suas ações.</p>
+
+    <p>31. Chuva, noite e locais afetam decisões.</p>
+    <p>32. Personagem não sabe tudo.</p>
+    <p>33. Investigação exige tempo.</p>
+    <p>34. Informações devem ser conquistadas.</p>
+    <p>35. Não existe reset mental.</p>
+    <p>36. Memória RP deve ser respeitada.</p>
+    <p>37. Relações entre personagens evoluem.</p>
+    <p>38. Traições têm consequências.</p>
+    <p>39. Respeite hierarquias.</p>
+    <p>40. Liderança é conquistada.</p>
+
+    <p>41. Economia deve ser valorizada.</p>
+    <p>42. Dinheiro não surge do nada.</p>
+    <p>43. Empregos devem ser interpretados.</p>
+    <p>44. Vida civil é tão importante quanto o crime.</p>
+    <p>45. Dark RP só se permitido.</p>
+    <p>46. Sequestros devem ter lógica.</p>
+    <p>47. Uso de máscara não esconde a voz.</p>
+    <p>48. Personagem sente cansaço.</p>
+    <p>49. Fome e sede devem ser consideradas.</p>
+    <p>50. Personagem aprende com erros.</p>
+
+    <p>51. Não force emoções.</p>
+    <p>52. A morte deve ser respeitada.</p>
+    <p>53. PermaDeath pode ser aplicado.</p>
+    <p>54. Novo personagem não herda histórias.</p>
+    <p>55. RP é coletivo.</p>
+    <p>56. Todos constroem a história.</p>
+    <p>57. O foco é a imersão.</p>
+    <p>58. Ganhar nunca é prioridade.</p>
+    <p>59. Interpretar bem é vencer.</p>
+    <p>60. Respeito acima de tudo.</p>
+
+    <p>61. Staff mantém a ordem.</p>
+    <p>62. Decisões administrativas devem ser aceitas.</p>
+    <p>63. Reporte bugs corretamente.</p>
+    <p>64. Não abuse de falhas.</p>
+    <p>65. RP evolui com o tempo.</p>
+    <p>66. Personagem amadurece.</p>
+    <p>67. Mudanças devem ser interpretadas.</p>
+    <p>68. Nada acontece instantaneamente.</p>
+    <p>69. RP exige paciência.</p>
+    <p>70. RP exige respeito.</p>
+
+    <p>71. RP exige compromisso.</p>
+    <p>72. RP exige maturidade.</p>
+    <p>73. RP exige coerência.</p>
+    <p>74. RP exige empatia.</p>
+    <p>75. RP exige dedicação.</p>
+    <p>76. RP é uma experiência.</p>
+    <p>77. RP é uma história viva.</p>
+    <p>78. RP é interpretação.</p>
+    <p>79. RP é convivência.</p>
+    <p>80. RP é diversão responsável.</p>
+  </div>
+</section>
+
+<footer>
+  <p>© 2025 - Guia Oficial de Roleplay</p>
+</footer>
+
+</body>
+</html>
